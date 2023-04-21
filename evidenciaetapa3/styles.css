@@ -1,0 +1,60 @@
+*
+body {
+  font-family: helvetica, arial, sans-serif;
+  
+}
+.colar{
+  background-color: #E3F2FD;
+}
+.cover{
+  height: 450px;
+  background-image: url('imagenes/bosque.jpg');
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-color: rgba(0,0,0,0.4);
+  background-blend-mode: darken;
+}
+.rav{
+  font-size: 45px;
+}
+.rov{
+  font-size: 75px;
+}
+
+.conts{
+  text-align: left;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+.cont{
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+.ohls{
+  font-size: 15px;
+}
+.contenidos{
+  align-items: center;
+  padding: 20px;
+  display: block;
+}
+.ima{
+  max-height: 300px;
+  max-width: 500px;
+}
+.imo{
+  max-width: 1200px;
+}
+.a{
+  padding: 20px;
+}
+.b{
+  max-height: 00px;
+}
+.rev{
+  font-size: 25px;
+}
